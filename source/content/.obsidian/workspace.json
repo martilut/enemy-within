@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Записки/Дым в Черных Пиках/5 Брауцайта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "5 Брауцайта"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Записки/Дым в Черных Пиках/5 Брауцайта, Бецальтаг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 5 Брауцайта, Бецальтаг"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Записки/Дым в Черных Пиках/5 Брауцайта, Бецальтаг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 5 Брауцайта, Бецальтаг"
             }
           },
           {
@@ -154,18 +154,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Записки/Дым в Черных Пиках/5 Брауцайта.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 5 Брауцайта"
+            }
+          },
+          {
+            "id": "7208e653d2a7f4a7",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_886868786b39",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 8,
+                    "year": 2513
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": false
+                },
+                "id": "ID_a989cb2b3aaa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,15 +198,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Записки/Дым в Черных Пиках/6 Брауцайта, Кенистаг.md",
+    "Записки/Дым в Черных Пиках/5 Брауцайта.md",
+    "0002-10-05.md",
+    "Записки/Дым в Черных Пиках",
+    "index.md",
     "Записки/index.md",
     "Места/index.md",
     "Персонажи/index.md",
-    "index.md",
     "category-folder/index.md",
     "Места",
     "Персонажи",

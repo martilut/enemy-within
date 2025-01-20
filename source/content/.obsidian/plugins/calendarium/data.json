@@ -1,0 +1,321 @@
+{
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Imperial Calendar",
+      "description": "",
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": true,
+        "incrementDay": true,
+        "displayMoons": false,
+        "firstWeekDay": 2,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Wellentag",
+            "id": "ID_19ea684b4a08"
+          },
+          {
+            "type": "day",
+            "name": "Aubentag",
+            "id": "ID_2928b90ab949"
+          },
+          {
+            "type": "day",
+            "name": "Marktag",
+            "id": "ID_0ad9a8f9e95b"
+          },
+          {
+            "type": "day",
+            "name": "Backertag",
+            "id": "ID_195a4b290bc9"
+          },
+          {
+            "type": "day",
+            "name": "Bezahltag",
+            "id": "ID_abe8c89b0999"
+          },
+          {
+            "type": "day",
+            "name": "Konistag",
+            "id": "ID_2b5b8a79fa4a"
+          },
+          {
+            "type": "day",
+            "name": "Angestag",
+            "id": "ID_1a78cb79c8cb"
+          },
+          {
+            "type": "day",
+            "name": "Festag",
+            "id": "ID_b8789ab8e998"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Nachexen",
+            "length": 32,
+            "id": "ID_7a4859196af9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Jahrdrung",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b8c9ebeb0b89"
+          },
+          {
+            "name": "Pflugzeit",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "Sigmarzeit",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "Sommerzeit",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "Vorgeheim",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "Nachgeheim",
+            "type": "month",
+            "length": 32,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "Erntezeit",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "Brauzeit",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "Kaldezeit",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "Ulriczeit",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "Vorhexen",
+            "type": "month",
+            "length": 33,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_ba1bab4a3a28"
+          }
+        ],
+        "moons": [],
+        "leapDays": [
+          {
+            "id": "ID_a809496989eb",
+            "name": "Hexenstag",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": true
+              }
+            ],
+            "intercalary": true,
+            "timespan": 0,
+            "offset": "1",
+            "type": "leapday",
+            "after": "0",
+            "numbered": true
+          },
+          {
+            "id": "ID_c82b4ad9d95a",
+            "name": "Mitterfruhl",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": true
+              }
+            ],
+            "intercalary": true,
+            "timespan": 1,
+            "offset": 1,
+            "type": "leapday",
+            "after": 33,
+            "numbered": true
+          },
+          {
+            "id": "ID_c95a6849b939",
+            "name": "Sonnstill",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": true
+              }
+            ],
+            "intercalary": true,
+            "timespan": 4,
+            "offset": 1,
+            "type": "leapday",
+            "after": 33,
+            "numbered": true
+          },
+          {
+            "id": "ID_9b5b7aa8283b",
+            "name": "Geheimnistag",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": true
+              }
+            ],
+            "intercalary": true,
+            "timespan": 5,
+            "offset": 1,
+            "type": "leapday",
+            "after": 33,
+            "numbered": true
+          },
+          {
+            "id": "ID_da393bc83acb",
+            "name": "Mittherbst",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": true
+              }
+            ],
+            "intercalary": true,
+            "timespan": 7,
+            "offset": 1,
+            "type": "leapday",
+            "after": 33,
+            "numbered": true
+          },
+          {
+            "id": "ID_3b2a6bea6a68",
+            "name": "Monstille",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": true
+              }
+            ],
+            "intercalary": true,
+            "timespan": 10,
+            "offset": 1,
+            "type": "leapday",
+            "after": 33,
+            "numbered": true
+          }
+        ],
+        "eras": [],
+        "offset": 0,
+        "padDays": 2,
+        "padMonths": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "day": 6,
+        "month": 8,
+        "year": 2513
+      },
+      "events": [],
+      "id": "ID_886868786b39",
+      "categories": [
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Miscellaneous Events",
+          "id": "miscellaneous-events",
+          "color": "#0288D1"
+        }
+      ],
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_886868786b39",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": true,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": "date",
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
