@@ -5,6 +5,6 @@
     "tags": "tags",
     "date": "date",
     "fc-date": "date",
-    "weekday": "text"
+    "weekday": "datetime"
   }
 }
