@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: The Enemy Within
 ---
 
-Hello world!
+Faith, steel and gunpowder
