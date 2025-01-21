@@ -1,1 +1,5 @@
-{}
+{
+  "enabledCssSnippets": [
+    "center_snippet"
+  ]
+}
