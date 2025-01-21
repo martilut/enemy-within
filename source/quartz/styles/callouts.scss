@@ -116,6 +116,12 @@
     --callout-icon: var(--callout-icon-quote);
   }
 
+  &[data-callout="image"] {
+    --color: var(--secondary);
+    --border: var(--lightgray);
+    --callout-icon: var(--callout-icon-example);
+  }
+
   &.is-collapsed > .callout-title > .fold-callout-icon {
     transform: rotateZ(-90deg);
   }
@@ -161,13 +167,5 @@
 
   .callout-title-inner {
     font-weight: $semiBoldWeight;
-  }
-}
-
-.callout {
-  &[data-callout="image"] {
-    --color: var(--secondary);
-    --border: var(--lightgray);
-    --callout-icon: var(--callout-icon-example);
   }
 }
