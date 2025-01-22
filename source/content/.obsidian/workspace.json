@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Записки/Поход в Черные Пики/5 Брауцайта.md",
+                "file": "Персонажи/Этелька Херцен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Брауцайта"
+              "title": "Этелька Херцен"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:фиолетовая_рука",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Записки/Поход в Черные Пики/5 Брауцайта.md"
+                "file": "Персонажи/Этелька Херцен.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 5 Брауцайта"
+              "title": "Outline of Этелька Херцен"
             }
           },
           {
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +213,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d8e7d30a37b9287b",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Записки/Поход в Черные Пики/5 Брауцайта.md",
+    "Персонажи/Этелька Херцен.md",
     "Галерея/Письмо Этельки Херцен.png",
     "Галерея/index.md",
     "index.md",
-    "Записки/Поход в Черные Пики/5 Брауцайта.md",
     "Записки/index.md",
     "Записки/Поход в Черные Пики/index.md",
     "Галерея",
