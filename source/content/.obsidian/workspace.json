@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Планы и финансы/index.md",
+                "file": "Планы и финансы/Торговля.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Торговля"
             }
           }
         ],
@@ -248,8 +248,8 @@
   },
   "active": "d8350121febd7b6d",
   "lastOpenFiles": [
-    "Планы и финансы/Temp.md",
     "Планы и финансы/index.md",
+    "Планы и финансы/Temp.md",
     "Планы и финансы/Торговля.md",
     "Планы и финансы/Список покупок.md",
     "Планы и финансы/Планы.md",
