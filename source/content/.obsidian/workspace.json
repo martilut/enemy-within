@@ -119,6 +119,7 @@
       {
         "id": "6cea78168fbf9ccd",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "2aa5a4c073617928",
@@ -192,7 +193,7 @@
                 "calendar": "ID_886868786b39",
                 "ephemeral": {
                   "viewing": {
-                    "day": 2,
+                    "day": 11,
                     "month": 9,
                     "year": 2513
                   },
@@ -228,6 +229,7 @@
       {
         "id": "372faf0065bfa548",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "e5c60134143e4e0b",
@@ -261,7 +263,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7208e653d2a7f4a7",
+  "active": "85d976c0203af092",
   "lastOpenFiles": [
     "Планы и финансы/Торговля.md",
     "Записки/9. Смерть на Рейке.md",
